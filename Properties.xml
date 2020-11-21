@@ -1,6 +1,0 @@
-<audience>     
-      <createnewbutton>//button[contains(text(),'Create New')]</createnewbutton>  
-      <enterDescription>//textarea[@name='description']</enterDescription> 
-      <selectAttribute>//span[contains(text(),'Select or search attribute')]</selectAttribute> 	
- </audience>
-
