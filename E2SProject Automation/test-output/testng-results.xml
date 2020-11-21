@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67360" started-at="2020-11-09T08:16:44Z" finished-at="2020-11-09T08:17:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67360" started-at="2020-11-09T08:16:44Z" finished-at="2020-11-09T08:17:51Z">
+      <class name="Test.PollsTest">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:Test.PollsTest@3ec300f1]" name="setExtent" is-config="true" duration-ms="284" started-at="2020-11-09T08:16:44Z" finished-at="2020-11-09T08:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:Test.PollsTest@3ec300f1]" name="setUp" is-config="true" duration-ms="29165" started-at="2020-11-09T08:16:44Z" finished-at="2020-11-09T08:17:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.PollsTest.vaidateTC_P_003() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="vaidateTC_P_003()[pri:1, instance:Test.PollsTest@3ec300f1]" name="vaidateTC_P_003" duration-ms="35936" started-at="2020-11-09T08:17:13Z" description="Verify whether added category are displayed under &quot;Select Category&quot;" finished-at="2020-11-09T08:17:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vaidateTC_P_003 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.PollsTest@3ec300f1]" name="tearDown" is-config="true" duration-ms="1368" started-at="2020-11-09T08:17:49Z" finished-at="2020-11-09T08:17:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=vaidateTC_P_003 status=SUCCESS method=PollsTest.vaidateTC_P_003()[pri:1, instance:Test.PollsTest@3ec300f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Test.PollsTest@3ec300f1]" name="endReport" is-config="true" duration-ms="557" started-at="2020-11-09T08:17:50Z" finished-at="2020-11-09T08:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Test.PollsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
